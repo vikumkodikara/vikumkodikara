@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Nimantha Vikum</h1>
+<h1 align="center">Hi 👋, I'm Vikum Kodikara</h1>
 <h3 align="center">Passionate IT Student | Eager to Learn New Technologies</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikumkodikara&label=Profile%20views&color=0e75b6&style=flat" alt="vikumkodikara" /> </p>
 
@@ -93,5 +93,6 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
   </a>
 </p>
+
 
 
