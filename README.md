@@ -39,7 +39,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikumkodikara&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&cache_seconds=1800"/>
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikumkodikara&theme=tokyonight&hide_border=true&langs_count=12&count_private=true&include_all_commits=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
   
   
   </td>
