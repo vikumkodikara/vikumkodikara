@@ -32,17 +32,15 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats-salesp07.vercel.app/api?username=vikumkodikara&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" />
-  <br></br>
-  <img  title="GitHub streak" alt="Vikum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikumkodikara&theme=tokyonight&hide_border=true" /> 
+
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=vikumkodikara&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" />
+
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikumkodikara&theme=tokyonight&hide_border=true&langs_count=12&count_private=true&include_all_commits=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
-  
-  
-  </td>
+  <img title="GitHub streak" alt="Vikum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikumkodikara&theme=tokyonight&hide_border=true" />
+
+</td>
 </tr>
 </table>
 
