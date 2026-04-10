@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://www.publicdomainpictures.net/pictures/580000/velka/programming.jpg">
+  <img align="center" alt="Cybersecurity" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
   
   </td>
