@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Cybersecurity" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img align="center" alt="Hacker" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
   
   </td>
