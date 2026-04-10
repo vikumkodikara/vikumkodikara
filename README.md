@@ -33,13 +33,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vikumkodikara&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
+  <img  align="center"  src="https://github-readme-stats-salesp07.vercel.app/api?username=vikumkodikara&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" />
   <br></br>
   <img  title="GitHub streak" alt="Vikum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikumkodikara&theme=tokyonight&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikumkodikara&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+  <img  align="center"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikumkodikara&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800"/>
   
   
   </td>
