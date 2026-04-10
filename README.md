@@ -7,9 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MONGODB**
+- 🌱 I’m currently learning **Cybersecurity & Ethical Hacking (CEH, Security+, NIST Framework)**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Network Security, Vulnerability Assessment, and OSINT**
 
 - 📫 How to reach me **vikumkodikara123@gmail.com**
   
