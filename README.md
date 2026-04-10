@@ -48,6 +48,17 @@
 
 ---
 
+<h3 align="center">Contribution Snake:</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikumkodikara/vikumkodikara/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikumkodikara/vikumkodikara/output/github-snake-light.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vikumkodikara/vikumkodikara/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/vikum-kodikara-39b962345" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vikumkodikara" height="50" width="50" /></a>
