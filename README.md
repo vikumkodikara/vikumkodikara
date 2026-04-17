@@ -18,7 +18,7 @@
 │                                                                      │
 │   root@volta:~$ whoami                                               │
 │   > Vikum Kodikara | aka "Volta"                                     │
-│   > Cybersecurity Student | Future Pentester                         │
+│   > IT Student | Future Pentester                         │
 │   > "Hack the planet, secure the future."                            │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
