@@ -193,14 +193,6 @@ Status:     Always learning...
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikumkodikara&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=00FF41&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
-<br>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
