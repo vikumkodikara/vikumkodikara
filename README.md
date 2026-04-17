@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Vikum Kodikara</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikum Kodikara</h1>
 <h3 align="center">Passionate IT Student | Eager to Learn New Technologies</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikumkodikara&label=Profile%20views&color=0e75b6&style=flat" alt="vikumkodikara" /> </p>
 
@@ -57,52 +57,75 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/vikum-kodikara-39b962345" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="vikumkodikara" height="50" width="50" /></a>
-<a href="https://www.facebook.com/nimanthav.kodikara.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nimantha V Kodikara" height="50" width="50" /></a>
-<a href="https://www.instagram.com/nimantha_v_kodikara?igsh=azV6bjZvOXZmc281" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="nimantha_v_kodikara" height="50" width="50" /></a>
-</p>
+<div align="center">
+  <h3>Connect with me:</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vikum-kodikara-39b962345" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/nimanthav.kodikara.1" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nimantha_v_kodikara?igsh=azV6bjZvOXZmc281" target="_blank" rel="noreferrer">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="40" />
+  </a>
+</div>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<div align="center">
+  <h3>Languages and Tools:</h3>
+</div>
+
+<div align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/microsoftSQL.svg" alt="SQL Server" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/PHP-Light.svg" alt="PHP" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="Figma" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Linux-Light.svg" alt="Linux" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/NodeJS-Light.svg" alt="Node.js" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Python-Light.svg" alt="Python" height="40"/>
   </a>
-  
-</p>
+</div>
 
 
 
