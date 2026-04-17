@@ -98,36 +98,7 @@ Status:     Always learning...
 </tr>
 </table>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- CYBERSECURITY ARSENAL                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked" width="30" /> <b><code>root@volta:~$ ls -la /opt/cyber-arsenal/</code></b>
-
----
-
 <div align="center">
-
-<h4>🔴 Offensive Security</h4>
-
-<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41&labelColor=0d1117" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=0d1117" alt="Metasploit" />
-<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41&labelColor=0d1117" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00FF41&labelColor=0d1117" alt="Nmap" />
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=0d1117" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Hashcat-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=0d1117" alt="Hashcat" />
-<img src="https://img.shields.io/badge/John_The_Ripper-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=0d1117" alt="John The Ripper" />
-<img src="https://img.shields.io/badge/Aircrack--ng-0d1117?style=for-the-badge&logo=airplayvideo&logoColor=00FF41&labelColor=0d1117" alt="Aircrack-ng" />
-
-<h4>🔵 Defensive Security</h4>
-
-<img src="https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=00BFFF&labelColor=0d1117" alt="Splunk" />
-<img src="https://img.shields.io/badge/Snort-0d1117?style=for-the-badge&logo=snort&logoColor=00BFFF&labelColor=0d1117" alt="Snort" />
-<img src="https://img.shields.io/badge/Firewall-0d1117?style=for-the-badge&logo=fortinet&logoColor=00BFFF&labelColor=0d1117" alt="Firewall" />
-<img src="https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=elastic&logoColor=00BFFF&labelColor=0d1117" alt="SIEM" />
-<img src="https://img.shields.io/badge/ClamAV-0d1117?style=for-the-badge&logo=virustotal&logoColor=00BFFF&labelColor=0d1117" alt="ClamAV" />
 
 <h4>🟣 Platforms & Training</h4>
 
@@ -245,16 +216,6 @@ Status:     Always learning...
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vikumkodikara/vikumkodikara/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES                                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> <b><code>root@volta:~$ cat /var/log/achievements.log</code></b>
-
----
 
 <div align="center">
 
