@@ -72,7 +72,7 @@
 # ═══════════════════════════════════════
 Name:       Vikum Kodikara
 Alias:      Volta
-Role:       Cybersecurity Student
+Role:       IT Undergraduate Student
 Location:   Sri Lanka 🇱🇰
 Focus:
   - 🛡️ Network Defense & Offense
