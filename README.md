@@ -125,6 +125,30 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" alt="Python" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=000000" alt="TypeScript" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=000000" alt="Vercel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Neon%20DB-000000?style=for-the-badge&logo=neon&logoColor=FFD700&labelColor=000000" alt="Neon DB" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000" alt="PostgreSQL" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFD700&labelColor=000000" alt="Express.js" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=FFD700&labelColor=000000" alt="Cloudflare" />
+  </a>
 </div>
 
 
