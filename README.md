@@ -63,15 +63,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vikum-kodikara-39b962345" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/nimanthav.kodikara.1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" />
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFD700&labelColor=000000" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/nimantha_v_kodikara?igsh=azV6bjZvOXZmc281" target="_blank" rel="noreferrer">
-    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="40" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700&labelColor=000000" alt="Instagram" />
   </a>
 </div>
 
@@ -83,47 +83,47 @@
 
 <div align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" height="40"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700&labelColor=000000" alt="C++" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" height="40"/>
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000" alt="CSS3" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" height="40"/>
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000" alt="HTML5" />
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" height="40"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000" alt="JavaScript" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/microsoftSQL.svg" alt="SQL Server" height="40"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFD700&labelColor=000000" alt="SQL Server" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL" height="40"/>
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700&labelColor=000000" alt="MySQL" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/PHP-Light.svg" alt="PHP" height="40"/>
+    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFD700&labelColor=000000" alt="PHP" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="Figma" height="40"/>
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFD700&labelColor=000000" alt="Figma" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Linux-Light.svg" alt="Linux" height="40"/>
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700&labelColor=000000" alt="Linux" />
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/NodeJS-Light.svg" alt="Node.js" height="40"/>
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFD700&labelColor=000000" alt="Node.js" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Python-Light.svg" alt="Python" height="40"/>
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" alt="Python" />
   </a>
 </div>
 
