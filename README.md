@@ -45,15 +45,6 @@
 
 <br>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+nmap+-sV+-sC+--script=vuln+target;%24+sudo+msfconsole+--exploit+%7C+Scanning+for+vulnerabilities...;%24+hashcat+-m+0+-a+0+hashes.txt+rockyou.txt;%24+python3+exploit.py+--payload+reverse_shell" alt="Typing SVG" /></a>
-
-</div>
-
-<br>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME SECTION                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
