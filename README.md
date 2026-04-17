@@ -1,13 +1,7 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛡️  VIKUM KODIKARA — CYBERSECURITY PROFILE  🛡️                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- ANIMATED CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=220&section=header&text=VIKUM%20KODIKARA&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=%F0%9F%94%92%20Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Penetration%20Tester&descSize=16&descColor=00FF41&descAlignY=55&animation=twinkling" width="100%" />
-
-</div>
+<p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100" height="100" /> </p>
+<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">I'm Vikum Kodikara</h1>
+<table align="center">
+<tbody>
 
 <!-- TERMINAL INTRO -->
 <div align="center">
