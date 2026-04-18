@@ -7,21 +7,21 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ██╗   ██╗ ██████╗ ██╗  ████████╗ █████╗                           │
-│   ██║   ██║██╔═══██╗██║  ╚══██╔══╝██╔══██╗                          │
-│   ██║   ██║██║   ██║██║     ██║   ███████║                           │
-│   ╚██╗ ██╔╝██║   ██║██║     ██║   ██╔══██║                           │
-│    ╚████╔╝ ╚██████╔╝███████╗██║   ██║  ██║                           │
-│     ╚═══╝   ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝                         │
-│                                                                      │
-│   root@volta:~$ whoami                                               │
-│   > Vikum Kodikara | aka "Volta"                                     │
-│   > Cybersecurity Student | Future Pentester                         │
-│   > "Hack the planet, secure the future."                            │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                      │
+│  ██╗   ██╗ ██████╗ ██╗  ████████╗ █████╗       ██████╗ ███████╗██╗  ██╗███████╗ │
+│  ██║   ██║██╔═══██╗██║  ╚══██╔══╝██╔══██╗      ██╔══██╗██╔════╝██║ ██╔╝╚══███╔╝ │
+│  ██║   ██║██║   ██║██║     ██║   ███████║█████╗██████╔╝█████╗  █████╔╝   ███╔╝  │
+│  ╚██╗ ██╔╝██║   ██║██║     ██║   ██╔══██║╚════╝██╔══██╗██╔══╝  ██╔═██╗  ███╔╝   │
+│   ╚████╔╝ ╚██████╔╝███████╗██║   ██║  ██║      ██║  ██║███████╗██║  ██╗███████╗ │
+│    ╚═══╝   ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝      ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ │
+│                                                                                      │
+│   root@volta_rekz:~$ whoami                                                          │
+│   > Vikum Kodikara | aka "Volta_Rekz"                                                │
+│   > Cybersecurity Student | Future Pentester                                         │
+│   > "Hack the planet, secure the future."                                            │
+│                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -43,7 +43,7 @@
 <!-- ABOUT ME SECTION                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="30" /> <b><code>root@volta:~$ cat /etc/about_me</code></b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="30" /> <b><code>root@volta_rekz:~$ cat /etc/about_me</code></b>
 
 ---
 
@@ -56,7 +56,7 @@
 # 🔐 OPERATIVE DOSSIER
 # ═══════════════════════════════════════
 Name:       Vikum Kodikara
-Alias:      Volta
+Alias:      Volta_Rekz
 Role:       IT Undergraduate Student
 Location:   Sri Lanka 🇱🇰
 Focus:
@@ -100,7 +100,7 @@ Status:     Always learning...
 <!-- DEVELOPMENT TECH STACK                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> <b><code>root@volta:~$ cat /proc/tech-stack</code></b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> <b><code>root@volta_rekz:~$ cat /proc/tech-stack</code></b>
 
 ---
 
@@ -149,7 +149,7 @@ Status:     Always learning...
 <!-- GITHUB STATS                                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> <b><code>root@volta:~$ neofetch --stats</code></b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> <b><code>root@volta_rekz:~$ neofetch --stats</code></b>
 
 ---
 
@@ -182,7 +182,7 @@ Status:     Always learning...
 <!-- CONTRIBUTION SNAKE                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> <b><code>root@volta:~$ python3 snake_exploit.py --target=contributions</code></b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> <b><code>root@volta_rekz:~$ python3 snake_exploit.py --target=contributions</code></b>
 
 ---
 
@@ -201,7 +201,7 @@ Status:     Always learning...
 <!-- CONNECT WITH ME                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Antenna" width="30" /> <b><code>root@volta:~$ netstat -tulpn | grep CONNECTIONS</code></b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Antenna" width="30" /> <b><code>root@volta_rekz:~$ netstat -tulpn | grep CONNECTIONS</code></b>
 
 ---
 
@@ -260,10 +260,10 @@ Status:     Always learning...
 │   🔒 "The quieter you become, the more you can hear." — Kali Linux  │
 │                                                                      │
 │   ┌─────────────────────────────────────────────────────────────┐    │
-│   │  root@volta:~$ echo "Thanks for visiting!"                 │    │
+│   │  root@volta_rekz:~$ echo "Thanks for visiting!"            │    │
 │   │  > Thanks for visiting!                                     │    │
-│   │  root@volta:~$ exit                                         │    │
-│   │  Connection to volta closed.                                │    │
+│   │  root@volta_rekz:~$ exit                                    │    │
+│   │  Connection to volta_rekz closed.                           │    │
 │   └─────────────────────────────────────────────────────────────┘    │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
