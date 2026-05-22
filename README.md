@@ -111,7 +111,9 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=0d1117" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=0d1117" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=0d1117" alt="C" />
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=0d1117" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00FF41&labelColor=0d1117" alt="C#" />
 <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00FF41&labelColor=0d1117" alt="PHP" />
 <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0d1117" alt="Bash" />
 <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117" alt="SQL" />
@@ -120,6 +122,8 @@ Status:     Always learning...
 
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0d1117" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00FF41&labelColor=0d1117" alt="Express.js" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41&labelColor=0d1117" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0d1117" alt="React" />
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=0d1117" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=0d1117" alt="CSS3" />
 
@@ -128,9 +132,11 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0d1117" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41&labelColor=0d1117" alt="SQL Server" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0d1117" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Neon_DB-0d1117?style=for-the-badge&logo=neon&logoColor=00FF41&labelColor=0d1117" alt="Neon DB" />
 <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0d1117" alt="Vercel" />
 <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Cloudflare_D1-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare D1" />
 
 <h4>🛠️ Tools & Platforms</h4>
 
