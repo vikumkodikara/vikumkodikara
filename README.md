@@ -137,6 +137,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41&labelColor=0d1117" alt="SQL Server" />
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0d1117" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Neon_DB-0d1117?style=for-the-badge&logo=neon&logoColor=00FF41&labelColor=0d1117" alt="Neon DB" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00FF41&labelColor=0d1117" alt="Firebase" />
 <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0d1117" alt="Vercel" />
 <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Cloudflare_D1-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare D1" />
