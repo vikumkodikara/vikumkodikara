@@ -111,6 +111,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=0d1117" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=0d1117" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=00FF41&labelColor=0d1117" alt="Kotlin" />
 <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=0d1117" alt="C" />
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=0d1117" alt="C++" />
 <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00FF41&labelColor=0d1117" alt="C#" />
