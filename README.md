@@ -118,6 +118,8 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00FF41&labelColor=0d1117" alt="PHP" />
 <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0d1117" alt="Bash" />
 <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117" alt="SQL" />
+<img src="https://img.shields.io/badge/XML-0d1117?style=for-the-badge&logo=xml&logoColor=00FF41&labelColor=0d1117" alt="XML" />
+<img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=00FF41&labelColor=0d1117" alt="JSON" />
 
 <h4>🌐 Web & Frameworks</h4>
 
