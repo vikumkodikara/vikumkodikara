@@ -83,17 +83,6 @@ Status:     Always learning...
 </tr>
 </table>
 
-<div align="center">
-
-<h4>🟣 Platforms & Training</h4>
-
-<img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117" alt="Hack The Box" />
-<img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=FF0000&labelColor=0d1117" alt="TryHackMe" />
-<img src="https://img.shields.io/badge/OverTheWire-0d1117?style=for-the-badge&logo=gnubash&logoColor=FFD700&labelColor=0d1117" alt="OverTheWire" />
-<img src="https://img.shields.io/badge/VulnHub-0d1117?style=for-the-badge&logo=virtualbox&logoColor=FF6600&labelColor=0d1117" alt="VulnHub" />
-
-</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
