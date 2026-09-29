@@ -154,7 +154,7 @@ Status:     Always learning...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikumkodikara&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF4120&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Heatmap" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikumkodikara">
 
 </div>
 
