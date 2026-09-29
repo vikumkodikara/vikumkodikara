@@ -151,10 +151,9 @@ Status:     Always learning...
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> <b><code>root@volta_rekz:~$ neofetch --stats</code></b>
 
 ---
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikumkodikara">
+<img src="https://your-activity-graph.vercel.app/graph?username=vikumkodikara&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true">
 
 </div>
 
