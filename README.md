@@ -19,7 +19,7 @@
 │   root@volta_rekz:~$ whoami                                                          │
 │   > Vikum Kodikara | "Volta_RekZ"                                                    │
 │   > IT Student | Future Pentester                                                    │
-│   > "Hack the planet, secure the future."                                            │
+│                                            
 │                                                                                      │
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -53,18 +53,18 @@
 
 ```yaml
 # ═══════════════════════════════════════
-# 🔐 OPERATIVE DOSSIER
+#  OPERATIVE DOSSIER
 # ═══════════════════════════════════════
 Name:       Vikum Kodikara
 Alias:      Volta_Rekz
 Role:       IT Undergraduate Student
 Location:   Sri Lanka 🇱🇰
 Focus:
-  - 🛡️ Network Defense & Offense
-  - 🔓 Penetration Testing
-  - 🕵️ OSINT & Reconnaissance
-  - 🧬 Malware Analysis
-  - 📡 Wireless Security
+  -  Network Defense & Offense
+  -  Penetration Testing
+  -  OSINT & Reconnaissance
+  -  Malware Analysis
+  -  Wireless Security
 Learning:
   - CEH (Certified Ethical Hacker)
   - CompTIA Security+
@@ -95,7 +95,7 @@ Status:     Always learning...
 
 <div align="center">
 
-<h4>⚡ Languages</h4>
+<h4>  Languages</h4>
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=0d1117" alt="JavaScript" />
@@ -110,7 +110,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/XML-0d1117?style=for-the-badge&logo=xml&logoColor=00FF41&labelColor=0d1117" alt="XML" />
 <img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=00FF41&labelColor=0d1117" alt="JSON" />
 
-<h4>🌐 Web & Frameworks</h4>
+<h4>  Web & Frameworks</h4>
 
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0d1117" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00FF41&labelColor=0d1117" alt="Express.js" />
@@ -119,7 +119,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=0d1117" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=0d1117" alt="CSS3" />
 
-<h4>🗄️ Databases & Cloud</h4>
+<h4>  Databases & Cloud</h4>
 
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0d1117" alt="MySQL" />
@@ -131,7 +131,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Cloudflare_D1-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare D1" />
 
-<h4>🛠️ Tools & Platforms</h4>
+<h4>  Tools & Platforms</h4>
 
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0d1117" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=0d1117" alt="Git" />
@@ -207,9 +207,9 @@ Status:     Always learning...
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  📡 ESTABLISHING SECURE CONNECTIONS...                   ║
-║  🔒 Protocol: TLS 1.3 | Cipher: AES-256-GCM             ║
-║  ✅ Connection Encrypted — Channel Secure                ║
+║     ESTABLISHING SECURE CONNECTIONS...                   ║
+║     Protocol: TLS 1.3 | Cipher: AES-256-GCM              ║
+║     Connection Encrypted — Channel Secure                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -255,7 +255,7 @@ Status:     Always learning...
 │   ⚠️  WARNING: Unauthorized access to this profile is prohibited.    │
 │   All activities are logged and monitored.                           │
 │                                                                      │
-│   🔒 "The quieter you become, the more you can hear." — Kali Linux  │
+│      "The quieter you become, the more you can hear." — Kali Linux  │
 │                                                                      │
 │   ┌─────────────────────────────────────────────────────────────┐    │
 │   │  root@volta_rekz:~$ echo "Thanks for visiting!"            │    │
