@@ -19,7 +19,7 @@
 │   root@volta_rekz:~$ whoami                                                          │
 │   > Vikum Kodikara | "Volta_RekZ"                                                    │
 │   > IT Student | Future Pentester                                                    │
-│                                            
+│                                                                                      │
 │                                                                                      │
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
