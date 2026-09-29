@@ -153,7 +153,7 @@ Status:     Always learning...
 ---
 <div align="center">
 
-<img src="https://your-activity-graph.vercel.app/graph?username=vikumkodikara&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true">
+<img src="https://activity-graph.vercel.app/graph?username=vikumkodikara&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" alt="Vikum Kodikara's Activity Graph" />
 
 </div>
 
