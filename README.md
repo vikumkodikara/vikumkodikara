@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100" height="100" /> </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> I'm Vikum Kodikara</h1>
+<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif?raw=true" width="30"> I'm Vikum Kodikara</h1>
 
 <!-- TERMINAL INTRO -->
 <div align="center">
@@ -43,7 +43,7 @@
 <!-- ABOUT ME SECTION                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="30" /> <b><code>root@volta_rekz:~$ cat /etc/about_me</code></b>
+<b><code>root@volta_rekz:~$ cat /etc/about_me</code></b>
 
 ---
 
@@ -64,10 +64,10 @@ Focus:
   -  Containerization & Orchestration
   -  Cloud Infrastructure
   -  Infrastructure as Code
-  -  Monitoring & Observability
+  -  Monitoring & Logging
   -  DevSecOps (Security in the Pipeline)
 Learning:
-  - Docker & Kubernetes
+  - Kubernetes
   - Terraform & Ansible
   - GitHub Actions & Jenkins
   - AWS / Azure Cloud
@@ -91,7 +91,7 @@ Status:     Always learning...
 <!-- DEVOPS PIPELINE                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> <b><code>root@volta_rekz:~$ ./deploy.sh --pipeline=production</code></b>
+<b><code>root@volta_rekz:~$ ./deploy.sh --pipeline=production</code></b>
 
 ---
 
@@ -100,14 +100,14 @@ Status:     Always learning...
 ```
 ┌────────┐    ┌────────┐    ┌────────┐    ┌──────────┐    ┌────────┐    ┌─────────┐
 │  CODE  │───>│ BUILD  │───>│  TEST  │───>│ SECURITY │───>│ DEPLOY │───>│ MONITOR │
-│  git   │    │ docker │    │  unit  │    │   scan   │    │  k8s   │    │ grafana │
+│  git   │    │ docker │    │  unit  │    │   scan   │    │ vercel │    │  logs   │
 └────────┘    └────────┘    └────────┘    └──────────┘    └────────┘    └─────────┘
 
 [✓] Commit received ........................... OK
 [✓] Container image built ..................... OK
 [✓] Tests passed .............................. OK
 [✓] Vulnerability scan ........................ 0 CRITICAL
-[✓] Deployed to cluster ....................... LIVE
+[✓] Deployed to production .................... LIVE
 ```
 
 </div>
@@ -118,19 +118,22 @@ Status:     Always learning...
 <!-- CURRENT MISSIONS                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Locked" width="30" /> <b><code>root@volta_rekz:~$ kubectl get missions --all-namespaces</code></b>
+<b><code>root@volta_rekz:~$ kubectl get missions --all-namespaces</code></b>
 
 ---
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" /> &nbsp;<b>Building</b> CI/CD pipelines with GitHub Actions &amp; Docker<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="22" /> &nbsp;<b>Containerizing</b> my projects and deploying them to the cloud<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="22" /> &nbsp;<b>Learning</b> Kubernetes, Terraform &amp; Infrastructure as Code<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> &nbsp;<b>Securing</b> pipelines with DevSecOps practices &amp; vulnerability scanning<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> &nbsp;<b>Monitoring</b> systems with Prometheus &amp; Grafana<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" /> &nbsp;<b>Studying</b> BSc (Hons) IT — Horizon Campus, Sri Lanka<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="22" /> &nbsp;<b>Open to</b> DevOps / Cloud Engineering internships
-</p>
+<div align="left">
+
+```bash
+[+] Building     CI/CD pipelines with GitHub Actions & Docker
+[+] Deploying    containerized projects to the cloud
+[~] Learning     Kubernetes, Terraform & Infrastructure as Code
+[+] Securing     pipelines with DevSecOps practices & vulnerability scanning
+[*] Studying     BSc (Hons) IT @ Horizon Campus, Sri Lanka
+[!] Open to      DevOps / Cloud Engineering internships
+```
+
+</div>
 
 <br>
 
@@ -138,34 +141,25 @@ Status:     Always learning...
 <!-- TECH STACK                                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> <b><code>root@volta_rekz:~$ cat /proc/tech-stack</code></b>
+<b><code>root@volta_rekz:~$ cat /proc/tech-stack</code></b>
 
 ---
 
 <div align="center">
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> DevOps & CI/CD</h4>
+<h4>  DevOps & CI/CD</h4>
 
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=0d1117" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00FF41&labelColor=0d1117" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00FF41&labelColor=0d1117" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=00FF41&labelColor=0d1117" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=00FF41&labelColor=0d1117" alt="Terraform" />
-<img src="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=00FF41&labelColor=0d1117" alt="Ansible" />
-<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00FF41&labelColor=0d1117" alt="Nginx" />
-<img src="https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=00FF41&labelColor=0d1117" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=00FF41&labelColor=0d1117" alt="Grafana" />
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="25" /> Cloud & Hosting</h4>
+<h4>  Cloud & Hosting</h4>
 
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00FF41&labelColor=0d1117" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF41&labelColor=0d1117" alt="Azure" />
 <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0d1117" alt="Vercel" />
 <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Cloudflare_D1-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41&labelColor=0d1117" alt="Cloudflare D1" />
 <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00FF41&labelColor=0d1117" alt="Firebase" />
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="25" /> Languages & Scripting</h4>
+<h4>  Languages & Scripting</h4>
 
 <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0d1117" alt="Bash" />
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117" alt="Python" />
@@ -180,7 +174,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117" alt="SQL" />
 <img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=00FF41&labelColor=0d1117" alt="JSON" />
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25" /> Web & Frameworks</h4>
+<h4>  Web & Frameworks</h4>
 
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0d1117" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00FF41&labelColor=0d1117" alt="Express.js" />
@@ -189,7 +183,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=0d1117" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=0d1117" alt="CSS3" />
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25" /> Databases</h4>
+<h4>  Databases</h4>
 
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0d1117" alt="MySQL" />
@@ -197,7 +191,7 @@ Status:     Always learning...
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0d1117" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Neon_DB-0d1117?style=for-the-badge&logo=neon&logoColor=00FF41&labelColor=0d1117" alt="Neon DB" />
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="25" /> Tools & Platforms</h4>
+<h4>  Tools & Platforms</h4>
 
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0d1117" alt="Linux" />
 <img src="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=00FF41&labelColor=0d1117" alt="Ubuntu" />
@@ -215,7 +209,7 @@ Status:     Always learning...
 <!-- GITHUB STATS                                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> <b><code>root@volta_rekz:~$ neofetch --stats</code></b>
+<b><code>root@volta_rekz:~$ neofetch --stats</code></b>
 
 ---
 <div align="center">
@@ -247,7 +241,7 @@ Status:     Always learning...
 <!-- CONTRIBUTION SNAKE                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> <b><code>root@volta_rekz:~$ python3 snake_exploit.py --target=contributions</code></b>
+<b><code>root@volta_rekz:~$ python3 snake_exploit.py --target=contributions</code></b>
 
 ---
 
@@ -265,7 +259,7 @@ Status:     Always learning...
 <!-- CONNECT WITH ME                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Antenna" width="30" /> <b><code>root@volta_rekz:~$ netstat -tulpn | grep CONNECTIONS</code></b>
+<b><code>root@volta_rekz:~$ netstat -tulpn | grep CONNECTIONS</code></b>
 
 ---
 
@@ -333,6 +327,6 @@ Status:     Always learning...
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://img.shields.io/badge/Made_with-☕_&_🔐_&_🐳-00FF41?style=flat-square&labelColor=0d1117" alt="Made with" />
+<img src="https://img.shields.io/badge/Made_with-☕_&_🔐-00FF41?style=flat-square&labelColor=0d1117" alt="Made with" />
 
 </div>
