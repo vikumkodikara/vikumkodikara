@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif?raw=true" width="30"> I'm Vikum Kodikara</h1>
 
 <!-- TERMINAL INTRO -->
-<div align="center">
+<table align="center"><tr><td>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────┐
@@ -22,7 +22,7 @@
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+</td></tr></table>
 
 <!-- PROFILE VIEWS + STATUS BADGES -->
 <div align="center">
@@ -95,7 +95,7 @@ Status:     Always learning...
 
 ---
 
-<div align="center">
+<table align="center"><tr><td>
 
 ```
 ┌────────┐    ┌────────┐    ┌────────┐    ┌──────────┐    ┌────────┐    ┌─────────┐
@@ -110,7 +110,7 @@ Status:     Always learning...
 [✓] Deployed to production .................... LIVE
 ```
 
-</div>
+</td></tr></table>
 
 <br>
 
@@ -263,7 +263,7 @@ Status:     Always learning...
 
 ---
 
-<div align="center">
+<table align="center"><tr><td>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -273,7 +273,7 @@ Status:     Always learning...
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-</div>
+</td></tr></table>
 
 <div align="center">
 
@@ -307,7 +307,7 @@ Status:     Always learning...
 
 </div>
 
-<div align="center">
+<table align="center"><tr><td>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -326,6 +326,10 @@ Status:     Always learning...
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
+
+</td></tr></table>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Made_with-☕_&_🔐-00FF41?style=flat-square&labelColor=0d1117" alt="Made with" />
 
